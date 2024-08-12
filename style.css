@@ -1,0 +1,65 @@
+body {
+ color: white;
+ xkground: black;
+  magin: 2px;
+}
+
+header {
+  font-size: 80px;
+  color: blueviolet;
+  border-bottom: solid 2px white;
+  margin: 20px;
+  padding:20px;
+  font-family: "Black Ops One", system-ui;
+}
+
+section {
+ font-family: "Exo 2", sans-serif;
+  background: #37ADA2;
+  margin: 20px;
+  Padding: 20px;
+  font-size: 30px; 
+  display:flex;
+}
+
+.descricao {
+font-size: 20px;
+
+}
+
+.primeiro {
+  margin-right: 20px;
+}
+
+img{
+  height:200px;
+}
+ .clipes{
+   display: flex;
+   overflow-x: auto;
+   gap:10px;
+}
+p{
+  text-align: justify,
+}
+
+.outros{
+  padding-left: 20px;
+  padding-right:20px;
+  font-size: 30px;
+  font-family: "Black Ops One", system-ui;
+}
+
+.outros img{
+  opacity: 1.0;
+  border: solid 3px blue
+  border-radius: 20px; 
+}
+
+.logo{
+  position: relative;
+  top: -40px
+  left:500px;
+  width: 20px;
+    
+}
